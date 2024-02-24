@@ -27,7 +27,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,github,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,wordpress,vscode,ps,linkedin,gmail,github,git&perline=5)](https://skillicons.dev)
 
 ![Mohib Ullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohibullah&show_icons=true&theme=dark)
 
