@@ -7,11 +7,17 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: For programmers, coffee isn't just a beverage; it's a vital source of inspiration and fuel for coding marathons!
   
-### Connect with me:
+###  Connect with me:
 <div id="badges">
   <a href="https://github.com/Mohib-Digital">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
+ <a href="linkedin.com/in/mohib-ullah-42b429271">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+ <a href="mailto:mohibullahafridi2020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
 <!--   <a href="https://www.youtube.com/channel/UCzvRaprYPhvAplMK36Gu0kw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> -->
